@@ -1,16 +1,16 @@
 class script(object):
-    START_TXT = """<b>​​​​​​​​​​<u>🚩 जय श्री राम 🚩​​​​​​​​​​</u></b>\n\n<b>ʜᴇʏ {}, {}</b>\n\n<b>ɪ ᴀᴍ ᴛʜᴇ ᴍᴏsᴛ ᴘᴏᴡᴇʀғᴜʟ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ғᴇᴀᴛᴜʀᴇ.</b>\n <blockquote>Nᴇᴇᴅ Pʀᴇᴍɪᴜᴍ 👉🏻 /plan</blockquote>"""
+    START_TXT = """<b>​​​​​​​​​​<u>🚩 🚩​​​​​​​​​​</u></b>\n\n<b>ʜᴇʏ {}, {}</b>\n\n<b>ɪ ᴀᴍ ᴛʜᴇ ᴍᴏsᴛ ᴘᴏᴡᴇʀғᴜʟ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ғᴇᴀᴛᴜʀᴇ.</b>\n <blockquote>Nᴇᴇᴅ Pʀᴇᴍɪᴜᴍ 👉🏻 /plan</blockquote>"""
 
-    GSTART_TXT = """<b>🚩 जय श्री राम 🚩\n\nʜᴇʏ {},\n\n𝒊 𝑨𝒎 𝑻𝒉𝒆 𝑴𝒐𝒔𝒕 𝑷𝒐𝒘𝒆𝒓𝒇𝒖𝒍 𝑨𝒖𝒕𝒐 𝑭𝒊𝒍𝒕𝒆𝒓 𝑩𝒐𝒕 𝑾𝒊𝒕𝒉 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑭𝒆𝒂𝒕𝒖𝒓𝒆.\n\n<blockquote>Nᴇᴇᴅ Pʀᴇᴍɪᴜᴍ 👉🏻 /plan</blockquote></b>"""
+    GSTART_TXT = """<b>🚩  🚩\n\nʜᴇʏ {},\n\n𝒊 𝑨𝒎 𝑻𝒉𝒆 𝑴𝒐𝒔𝒕 𝑷𝒐𝒘𝒆𝒓𝒇𝒖𝒍 𝑨𝒖𝒕𝒐 𝑭𝒊𝒍𝒕𝒆𝒓 𝑩𝒐𝒕 𝑾𝒊𝒕𝒉 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑭𝒆𝒂𝒕𝒖𝒓𝒆.\n\n<blockquote>Nᴇᴇᴅ Pʀᴇᴍɪᴜᴍ 👉🏻 /plan</blockquote></b>"""
     
-    HELP_TXT = """<b>🚩 जय श्री राम 🚩\n\nʜᴇʏ {},
+    HELP_TXT = """<b>🚩  🚩\n\nʜᴇʏ {},
     
 ᴡᴇ ʜᴀᴠᴇ ᴅᴇᴠɪᴅᴇᴅ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅꜱ ꜰᴏʀ ɢʀᴏᴜᴘ ᴏᴡɴᴇʀꜱ ᴀɴᴅ ʙᴏᴛ ᴜꜱᴇʀꜱ.\nᴀɴᴅ ᴡᴇ ʜᴀᴠᴇ ꜱᴏᴍᴇ ᴇxᴛʀᴀ ꜰᴇᴀᴛᴜʀᴇꜱ
 </b>"""
 
     ABOUT_TXT = """<b>╭────[ ᴍʏ ᴅᴇᴛᴀɪʟs ]────⍟
-├⍟ Mʏ Nᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
-├⍟ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href={}>ᴏᴡɴᴇʀ</a> 
+├⍟ Mʏ Nᴀᴍᴇ : <a SASUKE-NARUTO >name </a>
+├⍟ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/ANIMEUNIVERSETEUGU'>ᴏᴡɴᴇʀ</a> 
 ├⍟ Lɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>
 ├⍟ Lᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 𝟹</a> 
 ├⍟ Dᴀᴛᴀʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -242,7 +242,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/dreamcinezone">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a https://t.me/dreamcinezone>[Dreamcine_Botz]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/ANIMEUNIVERSETEUGU">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a herf="https://t.me/ANIMEUNIVERSETEUGU">[ANIMEUNIVERSE_Botz]</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🏷 Title</b>: <a href={url}>{title}</a>
@@ -443,9 +443,9 @@ Requested by : {message.from_user.mention}</b>"""
 🪔 𝑪𝒉𝒆𝒄𝒌 𝒀𝒐𝒖𝒓 𝑨𝒄𝒕𝒊𝒗𝒆 𝑷𝒍𝒂𝒏: /myplan
 ‼️ 𝑨𝒇𝒕𝒆𝒓 𝑺𝒆𝒏𝒅𝒊𝒏𝒈 𝑨 𝑺𝒄𝒓𝒆𝒆𝒏𝒔𝒉𝒐𝒕 𝑷𝒍𝒆𝒂𝒔𝒆 𝑮𝒊𝒗𝒆 𝒖𝒔 𝒔𝒐𝒎𝒆 𝑻𝒊𝒎𝒆 𝑻𝒐 𝑨𝒅𝒅 𝒀𝒐𝒖 𝑰𝒏 𝑻𝒉𝒆 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑳𝒊𝒔𝒕.</b>"""    
 
-    SOURCE_TXT ="""<b>ՏOᑌᖇᑕᗴ ᑕOᗪᗴ : 👇 </b>
+    SOURCE_TXT ="""<b>PAID BROO! : 👇 </b>
 
- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com/Deendayal403/Deendayal_dhakad.git>Deendayal_Botz</a>\n """
+ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a CONTACT DEVELOPER</a>\n """
 
     EXTRAF_TXT =""" <b> ʜᴇʀᴇ ɪꜱ ᴍʏ ᴇxᴛʀᴀ ꜰᴇᴀᴛᴜʀᴇꜱ </b>"""
 
